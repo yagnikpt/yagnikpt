@@ -45,6 +45,6 @@
 
 <p align="center">
 <a href="https://twitter.com/YagnikP26385066"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Yagnik%20Patel-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/code_addicted_2021"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-code__addicted__2021-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/coding_freak._"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-coding__freak.__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:coderisaddicted@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-coderisaddicted@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
