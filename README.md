@@ -33,12 +33,10 @@
   ![PostMan](https://img.shields.io/badge/-PostMan-333?style=flat&logo=Postman)
 
 <br/>
-
 <a href="https://github.com/Yagnik-Patel-47">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yagnik-Patel-47&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagnik-Patel-47&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yagnik-Patel-47&theme=react&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagnik-Patel-47&theme=react&layout=compact" />
 </a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
