@@ -2,7 +2,7 @@
 
 I'm a front-end developer based in Gujarat, India who is actively working towards becoming a fully-fledged full-stack developer. I am a first-year college student. I plan to try freelancing or remote jobs to gain practical experience in the industry.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,next,svelte,tailwind,materialui,nodejs,supabase,prisma,postgres,mysql,mongodb,docker,git,python,fastapi,redis,nestjs,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,next,svelte,tailwind,materialui,nodejs,supabase,prisma,postgres,mysql,mongodb,docker,git,python,fastapi,redis,nestjs,vim&perline=8)](https://skillicons.dev)
 
 ![yagnik-patel-47's Stats](https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![yagnik-patel-47's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=dark&show_icons=true&hide_border=true&layout=compact)
