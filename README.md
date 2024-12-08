@@ -1,13 +1,21 @@
 ## Hey there! I'm Yagnik.
 
-I'm a front-end developer based in Gujarat, India who is actively working towards becoming a fully-fledged full-stack developer. I am a first-year college student. I plan to try freelancing or remote jobs to gain practical experience in the industry.
+I'm a second-year computer science student at KPGU with a passion for creating awesome and engaging web experiences. My days are filled with coding and exploring new ideas. Let’s create something amazing together!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,next,svelte,tailwind,materialui,nodejs,supabase,prisma,postgres,mysql,mongodb,docker,git,python,fastapi,redis,nestjs,vim&perline=8)](https://skillicons.dev)
+checkout my portfolio site to know more about me:- [yagnik.me](https://yagnik.me)
 
-![yagnik-patel-47's Stats](https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![yagnik-patel-47's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,html,css,ts,react,next,svelte,astro,tailwind,materialui,nodejs,supabase,appwrite,postgres,mysql,mongodb,docker,git,python,fastapi,redis,vim&perline=8)](https://yagnik.me)
 
-[![My Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yagnik-devp.vercel.app)
-[![My Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yagnik_pt)
-[![My Instagram](https://img.shields.io/badge/instagram-ff1c52?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/yagnik._._.patel)
-[![My Email](https://img.shields.io/badge/yagnik47.dev@gmail.com-9e1b19?logo=gmail&style=for-the-badge&logoColor=white)](mailto:yagnik47.dev@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues,contribs">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=swift&hide_border=true&count_private=true&hide=issues,contribs">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&hide_progress=true">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=swift&hide_border=true&hide_progress=true">
+</picture>
+
+[![My Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yagnik_pt)
+[![My LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yagnikpt)
+[![My Email](https://img.shields.io/badge/hello@yagnik.me-9e1b19?logo=gmail&style=for-the-badge&logoColor=white)](mailto:hello@yagnik.me)
+[![Buy me a Coffee](https://img.shields.io/badge/by_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yagnik)
