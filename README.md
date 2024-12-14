@@ -15,7 +15,7 @@ checkout my portfolio site to know more about me:- [yagnik.me](https://yagnik.me
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=swift&hide_border=true&hide_progress=true&hide=javascript">
 </picture>
 
-[![My Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yagnik_pt)
-[![My LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yagnikpt)
+[![My Twitter](https://img.shields.io/badge/yagnik__pt-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yagnik_pt)
+[![My LinkedIn](https://img.shields.io/badge/yagnikpt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yagnikpt)
 [![My Email](https://img.shields.io/badge/hello@yagnik.me-dc2626?logo=gmail&style=for-the-badge&logoColor=white)](mailto:hello@yagnik.me)
-[![Buy me a Coffee](https://img.shields.io/badge/by_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yagnik)
+[![Buy me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yagnik)
