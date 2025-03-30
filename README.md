@@ -1,21 +1,19 @@
-<a href="https://yagnik.me">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aca39cd2-1c8e-4b62-9cef-e66779ca019f">
-    <img alt="Github Stats" src="https://github.com/user-attachments/assets/c71a1466-dc92-40f6-bca3-4a7258d43ff8">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aca39cd2-1c8e-4b62-9cef-e66779ca019f">
+  <img alt="Info Banner" src="https://github.com/user-attachments/assets/c71a1466-dc92-40f6-bca3-4a7258d43ff8">
+</picture>
 
 <h2 align="center" />
   
 [![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,react,next,svelte,tailwind,vite,nodejs,postgres,mongodb,docker,git,python,fastapi,redis&perline=8)](https://yagnik.me)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues%2Ccontribs">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=swift&hide_border=true&count_private=true&hide=issues,contribs">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues%2Ccontribs&rank_icon=github">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=swift&hide_border=true&count_private=true&hide=issues,contrib&rank_icon=githubs">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&hide_progress=true&hide=javascript">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=swift&hide_border=true&hide_progress=true&hide=javascript">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&&theme=github_dark_dimmed&hide_border=true&hide_progress=true&hide=javascript&layout=compact">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnik-patel-47&theme=swift&hide_border=true&hide_progress=true&hide=javascript&layout=compact">
 </picture>
 
 [![My Twitter](https://img.shields.io/badge/yagnik__pt-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yagnik_pt)
