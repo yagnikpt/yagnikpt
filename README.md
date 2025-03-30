@@ -1,10 +1,13 @@
-## Hey there! I'm Yagnik.
+<a href="https://yagnik.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aca39cd2-1c8e-4b62-9cef-e66779ca019f">
+    <img alt="Github Stats" src="https://github.com/user-attachments/assets/c71a1466-dc92-40f6-bca3-4a7258d43ff8">
+  </picture>
+</a>
 
-I'm a second-year computer science student at KPGU with a passion for creating awesome and engaging web experiences. My days are filled with coding and exploring new ideas. Let’s create something amazing together!
-
-checkout my portfolio site to know more about me:- [yagnik.me](https://yagnik.me)
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,html,css,ts,react,next,svelte,astro,tailwind,materialui,nodejs,supabase,appwrite,postgres,mysql,mongodb,docker,git,python,fastapi,redis,vim&perline=8)](https://yagnik.me)
+<h2 align="center" />
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,react,next,svelte,tailwind,vite,nodejs,postgres,mongodb,docker,git,python,fastapi,redis&perline=8)](https://yagnik.me)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues%2Ccontribs">
