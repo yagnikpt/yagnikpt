@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aca39cd2-1c8e-4b62-9cef-e66779ca019f">
-  <img alt="Info Banner" src="https://github.com/user-attachments/assets/c71a1466-dc92-40f6-bca3-4a7258d43ff8">
-</picture>
+[![Banner](https://github.com/user-attachments/assets/aca39cd2-1c8e-4b62-9cef-e66779ca019f)](https://yagnik.me)
+
 
 <h2 align="center" />
   
