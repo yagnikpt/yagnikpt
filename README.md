@@ -3,7 +3,7 @@
 
 <h2 align="center" />
   
-[![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,react,next,svelte,tailwind,vite,nodejs,postgres,mongodb,docker,git,python,fastapi,redis&perline=8)](https://yagnik.me)
+![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,react,next,svelte,tailwind,vite,nodejs,postgres,mongodb,docker,git,python,fastapi,redis&perline=8)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yagnik-patel-47&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues%2Ccontribs&rank_icon=github">
