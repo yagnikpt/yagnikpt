@@ -10,7 +10,11 @@
 - 📫 How to reach me: [@yagnik_pt](https://x.com/yagnik_pt) on Twitter
 - ⚡ Fun fact: I have done a lot of web development.
 
-![My Skills](https://skillicons.dev/icons?i=cpp,go,ts,react,next,svelte,tailwind,vite,nodejs,postgres,mongodb,docker,git,python,fastapi,redis&perline=8)
+### I'm good with
+![My Skills](https://skillicons.dev/icons?i=go,ts,react,next,svelte,tailwind,astro,vite,nodejs,bun,postgres,git,python,fastapi,redis,supabase&perline=8)
+
+### Bucket List
+![Bucket List](https://skillicons.dev/icons?i=linux,aws,azure,docker,rabbitmq,mongodb,cassandra,vim&perline=8)
 
 -------
 📊 **Weekly development breakdown**
