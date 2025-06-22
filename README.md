@@ -10,10 +10,12 @@
 - 📫 How to reach me: [@yagnik_pt](https://x.com/yagnik_pt) on Twitter
 - ⚡ Fun fact: I have done a lot of web development.
 
-### I'm good with
+🥷🏼 **I'm good with**
+
 ![My Skills](https://skillicons.dev/icons?i=go,ts,react,next,svelte,tailwind,astro,vite,nodejs,bun,postgres,git,python,fastapi,redis,supabase&perline=8)
 
-### Bucket List
+📌 **Wanna be good with**
+
 ![Bucket List](https://skillicons.dev/icons?i=linux,aws,azure,docker,rabbitmq,mongodb,cassandra,vim&perline=8)
 
 -------
