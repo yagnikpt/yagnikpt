@@ -23,7 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 3 mins     ████████████████████████▓   99.26 %
+Python       1 hr 9 mins     ███████████▓░░░░░░░░░░░░░   46.75 %
+TypeScript   1 hr 3 mins     ██████████▓░░░░░░░░░░░░░░   42.98 %
+Lua          13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
