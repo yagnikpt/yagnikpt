@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Yagnik.</h2>
 <p align="center">
-  <a href="https://yagnik.me">Site</a> •
+  <a href="https://yagnik.codes">Site</a> •
   <a href="https://x.com/yagnik_pt">Twitter</a>
 </p>
 
