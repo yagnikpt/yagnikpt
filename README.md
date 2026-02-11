@@ -23,9 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     10 hrs 2 mins   ███████████████████▓░░░░░   78.25 %
-Python         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-gitignore      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+TypeScript     10 hrs 2 mins   ████████████████████░░░░░   79.61 %
+Python         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Bash           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
