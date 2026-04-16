@@ -23,8 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   10 mins               ████████████████████████░   95.65 %
-Python   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Python   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
