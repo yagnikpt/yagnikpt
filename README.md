@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A CS student focused on backend systems, CLI tooling, and LLM workflows.
+#### A CS student focused on backend systems, CLI tooling, and GenAI workflows.
 
 - ⚙️ I use actively: `.go`, `.ts`, `.py`, `Dockerfile`, `.sql`
 - 🚀 Goal: DevOps, SRE, Backend or something related to systems. [still figuring out :)]
