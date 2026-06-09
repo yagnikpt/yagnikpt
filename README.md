@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 2 mins          ██████████░░░░░░░░░░░░░░░   39.99 %
-Go           2 hrs 47 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-JavaScript   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript                 5 hrs 59 mins         ███████████░░░░░░░░░░░░░░   43.98 %
+Go                         1 hr 50 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Nginx configuration file   11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
