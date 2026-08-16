@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go             7 hrs 21 mins         █████████▒░░░░░░░░░░░░░░░   37.81 %
-TypeScript     4 hrs 38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Python         1 hr 37 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-shell script   45 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+TypeScript     13 hrs 10 mins        █████████████░░░░░░░░░░░░   52.64 %
+Go             5 hrs 7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+Python         1 hr 37 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+shell script   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
