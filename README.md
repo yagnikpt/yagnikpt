@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 hrs 51 mins        █████████████████████▓░░░   87.21 %
-Python       2 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Bash         8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript   25 hrs 40 mins        ██████████████████████▒░░   89.65 %
+Python       2 hrs 12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+KDL          5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
