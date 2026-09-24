@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     6 hrs 55 mins         █████████████░░░░░░░░░░░░   52.13 %
-shell script   1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Astro          43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+TypeScript     6 hrs 48 mins         ██████████████▓░░░░░░░░░░   59.23 %
+shell script   1 hr 14 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Bash           11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
