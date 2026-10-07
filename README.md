@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     1 hr 42 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
-CSS            30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-rasi           6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript     1 hr 3 mins           █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
+Python         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
