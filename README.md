@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 47 mins          ██████████▓░░░░░░░░░░░░░░   42.21 %
-Astro        1 hr 6 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.09 %
-CSS          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+TypeScript   1 hr 32 mins          ██████████████▓░░░░░░░░░░   58.82 %
+TSConfig     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
