@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     8 hrs 27 mins         ████████████████▒░░░░░░░░   64.98 %
-Python         1 hr 20 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-TSConfig       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+TypeScript     10 hrs 19 mins        ██████████████████▓░░░░░░   75.02 %
+Astro          17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
