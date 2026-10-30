@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 22 mins         █████████████████▓░░░░░░░   70.12 %
-Astro        17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   8 hrs 49 mins         ███████████████▓░░░░░░░░░   62.58 %
+Docker       28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
