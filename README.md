@@ -11,9 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 57 mins         ███████████▓░░░░░░░░░░░░░   46.21 %
-Docker       32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-KDL          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript     4 hrs 13 mins         ███████████▓░░░░░░░░░░░░░   47.11 %
+Python         1 hr 13 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Docker         32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
