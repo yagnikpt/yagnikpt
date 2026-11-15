@@ -11,8 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     12 hrs 30 mins        █████████████████▓░░░░░░░   71.19 %
-Bash           42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+TypeScript     12 hrs 10 mins        ███████████████░░░░░░░░░░   59.62 %
+Astro          1 hr 37 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Bash           42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
