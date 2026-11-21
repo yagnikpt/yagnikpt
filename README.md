@@ -18,5 +18,5 @@ Go             7 mins                ▒░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 -------
-[🌏 yagnik.codes](https://yagnik.codes)<br />
+[🌏 yagnikp.vercel.app](https://yagnikp.vercel.app)<br />
 [📨 yagnik.pt@gmail.com](mailto:yagnik.pt@gmail.com)
