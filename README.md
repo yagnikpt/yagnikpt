@@ -17,5 +17,5 @@ Lua            17 mins               █░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 -------
-[🌏 yagnikp.vercel.app](https://yagnikp.vercel.app)<br />
+[🌏 yagnik.tech](https://yagnik.tech)<br />
 [📨 yagnik.pt@gmail.com](mailto:yagnik.pt@gmail.com)
